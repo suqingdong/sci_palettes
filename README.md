@@ -32,6 +32,6 @@ sns.scatterplot(...)
 sns.scatterplot(..., palette='aaas')
 ```
 
-> Full examples in [examples](examples/)
+> Full examples in [examples](examples/test.py)
 
 ### Inspired by the R Package [ggsci](https://github.com/nanxstats/ggsci)
