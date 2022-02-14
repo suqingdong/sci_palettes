@@ -1,0 +1,7 @@
+{
+    "prog": "sci-palettes",
+    "desc": "sci palettes for matplotlib/seaborn",
+    "author": "suqingdong",
+    "author_email": "suqingdong1114@gmail.com",
+    "version": "1.0.0"
+}
