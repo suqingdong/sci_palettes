@@ -14,6 +14,7 @@ setup(
     description=version_info['desc'],
     long_description=BASE_DIR.joinpath('README.md').read_text(),
     long_description_content_type="text/markdown",
+    url='https://github.com/suqingdong/sci_palettes',
     license='BSD License',
     install_requires=BASE_DIR.joinpath('requirements.txt').read_text().strip().split(),
     packages=find_packages(),
